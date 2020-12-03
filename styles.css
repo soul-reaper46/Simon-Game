@@ -17,6 +17,15 @@ body {
 
 }
 
+.play {
+  background-color: #e7e7e7;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  padding: 15px 32px;
+  font-size: 20px;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
